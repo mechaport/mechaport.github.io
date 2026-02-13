@@ -266,6 +266,7 @@ p#fuwaimg_caption_text {
 
 span#fuwaimg_loading {
     z-index: -1;
+display:none;
     color: white;
     position: absolute;
     margin: auto;
