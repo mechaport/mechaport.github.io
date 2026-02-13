@@ -219,7 +219,7 @@ a#fuwaimg_next:before {
     bottom: 0;
     right: 0;
     left: 0;
-    transition: .3s;
+    transition: 0s;
 }
 a#fuwaimg_next:hover:before {
     right: -7px;
