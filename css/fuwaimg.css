@@ -290,7 +290,7 @@ span#fuwaimg_loading {
 }
 #fuwaimg_loadbar:before {
   content: '';
-  display: block;
+  display: none;
   position: absolute;
   width: 20px;
   height: 7px;
