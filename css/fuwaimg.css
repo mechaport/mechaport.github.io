@@ -278,6 +278,7 @@ span#fuwaimg_loading {
 }
 #fuwaimg_loadbar {
   overflow: hidden;
+display:none;
     position: absolute;
     width: 100px;
     height: 7px;
