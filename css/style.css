@@ -78,7 +78,7 @@ dl dt {
 
 a {
   text-decoration: none;
-  color: #54c6ff;
+  color: #0090d9;
   /* リンクの色 */
 }
 
@@ -563,7 +563,7 @@ footer .template {
   text-align: right;
   width: 100%;
   padding: 5px 10px;
-  background: #333;
+  background: #ddd;
   color: #ddd;
   font-size: 12px;
 }
